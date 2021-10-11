@@ -144,21 +144,21 @@ ul.parent li a:hover {
 }
 .img .head-img img{
   right: 15%;
-  top: 30%;
+  top: 34%;
   height: 420px;
   width: 590px;
   position: absolute;
 }
 .img .middle-img img{
   right: 31.5%;
-  top: 90%;
+  top: 92%;
   height: 260px;
   width: 350px;
   position: absolute;
 }
 .img .middle-img2 img{
   right: 15%;
-  top: 90%;
+  top: 92%;
   height: 260px;
   width: 220px;
   position: absolute;
@@ -166,7 +166,7 @@ ul.parent li a:hover {
 .word2{
   position: absolute;
   right: 20%;
-  top: 130%;
+  top: 134%;
   width: 450px;
   height: auto;
   font-size: 20px;
